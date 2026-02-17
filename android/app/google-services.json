@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "801428209666",
+    "project_id": "vidzy-7aa5f",
+    "storage_bucket": "vidzy-7aa5f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801428209666:android:51b56184db9ea477a4a71b",
+        "android_client_info": {
+          "package_name": "com.example.vidzy_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArFgnCsWa31OJ1BLxB-0W4Z_22GwlZWZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
